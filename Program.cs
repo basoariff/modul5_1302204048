@@ -10,6 +10,21 @@ namespace modul5_1302204048
     {
         static void Main(string[] args)
         {
+            SayaTubeVideo ob = new SayaTubeVideo("Tutorial Design By Contract - [BASO ARIF]");
+
+            Console.Writeline(ob.playCount);
+
+            ob.IncreasePlayCount(10);
+
+            Console.Writeline(ob.playCount);
+
+            ob.IncreasePlayCount(10);
+
+            Console.Writeline(ob.playCount);
+
+            ob.IncreasePlayCount();
+
+            Console.Writeline(ob.playCount);
         }
     }
 }

@@ -1,0 +1,3 @@
+C:\Users\asus\basoarif\Praktikum KPL\modul5_1302204048\modul5_1302204048\obj\Debug\modul5_1302204048.csproj.AssemblyReference.cache
+C:\Users\asus\basoarif\Praktikum KPL\modul5_1302204048\modul5_1302204048\obj\Debug\modul5_1302204048.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\basoarif\Praktikum KPL\modul5_1302204048\modul5_1302204048\obj\Debug\modul5_1302204048.csproj.CoreCompileInputs.cache
